@@ -1,4 +1,4 @@
-# Farah Bouh
+# Farah Bouhnaida
 
 Étudiante en informatique – Portfolio académique et projets personnels
 
@@ -13,10 +13,10 @@ Ce GitHub rassemble mes projets académiques et mes travaux personnels, montrant
 
 ## 🛠 Compétences et technologies
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![Scheme](https://img.shields.io/badge/Scheme-1e4b6b?style=for-the-badge)
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/farahbouh/C)  
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/farahbouh/Python)  
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/farahbouh/Html)  
+[![Scheme](https://img.shields.io/badge/Scheme-1e4b6b?style=for-the-badge)](https://github.com/farahbouh/Scheme)
 
 - Programmation orientée objet (C++)  
 - Structures de données et algorithmes  
