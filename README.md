@@ -1,13 +1,13 @@
 # Farah Bouhnaida
 
-Étudiante en informatique – Portfolio académique et projets personnels
+Étudiante en informatique – Portfolio projets académique et personnels
 
 ---
 
 ## 👩‍💻 À propos de moi
 
-Je suis étudiante en informatique, passionnée par le développement logiciel, l’algorithmique et la résolution de problèmes.  
-Ce GitHub rassemble mes projets académiques et mes travaux personnels, montrant ma progression et mes compétences techniques.
+Je suis étudiante en informatique, passionnée par la transformation de problémes en solution utile.  
+Ce GitHub rassemble mes projets académiques et personnels.
 
 ---
 
@@ -27,12 +27,10 @@ Ce GitHub rassemble mes projets académiques et mes travaux personnels, montrant
 
 ## 📂 Contenu du dépôt
 
-- Projets universitaires et exercices pratiques  
-- Implémentations d’algorithmes et structures de données  
-- Projets personnels démontrant ma maîtrise du code et ma progression  
-
-Chaque projet reflète mes compétences et mon engagement dans le domaine de l’informatique.
-
+- Projets personnels 
+- Projets universitaires
+- Exercices pratiques  
+  
 ---
 
 ## 🎯 Objectifs professionnels
