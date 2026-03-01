@@ -1,21 +1,23 @@
 # Farah Bouhnaida
-**Développeuse informatique** – Portfolio de projets
+**Étudiante en informatique** – Développeuse en devenir
 
 ---
 
-## 👩‍💻 Profil
+## 👋 Bonjour, moi c'est Farah
 
-Étudiante en informatique, je conçois et développe des solutions logicielles en transformant des problèmes complexes en code fonctionnel et structuré.
+Je suis étudiante en informatique, passionnée par la création de solutions logicielles utiles et bien conçues. J'aime comprendre le fonctionnement des choses et transformer des idées en code fonctionnel.
+
+Ce GitHub reflète mon parcours d'apprentissage et ma curiosité technique à travers différents projets.
 
 ---
 
-## 🛠 Stack technique
+## 🛠 Compétences techniques
 
-| Catégorie | Technologies |
-|-----------|-------------|
-| **Langages** | C++ · Python · HTML/CSS · JavaScript (base) · SQL |
-| **Concepts** | POO · Algorithmique · Structures de données · Web front-end |
-| **Outils** | Git · VS Code · Linux (bases) |
+| | |
+|---|---|
+| **Langages** | C++, Python, HTML/CSS, JavaScript (notions), SQL |
+| **Concepts maîtrisés** | Programmation orientée objet, algorithmique, structures de données |
+| **Outils** | Git, VS Code, Linux (utilisation courante) |
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -24,33 +26,36 @@
 
 ---
 
-## 📌 Projets phares
+## 📌 Projets
 
-> *Dépôts disponibles par langage et par niveau de difficulté*
-
-### 🔹 C++
-- Implémentations d'algorithmes classiques
+### C++
+- Implémentation d'algorithmes classiques
 - Exercices de programmation orientée objet
 
-### 🔹 Python
-- Scripts et petits outils
+### Python
+- Scripts et outils pratiques
 - Résolution de problèmes algorithmiques
 
-### 🔹 Web
-- Pages statiques en HTML/CSS
-- Intégration de maquettes simples
+### Web
+- Développement de pages statiques
+- Intégration de maquettes
 
-### 🔹 Académique
+### Académique
 - Projets universitaires (C++, Python, Scheme)
 - Travaux pratiques commentés
 
+*Chaque dépôt contient une description détaillée du projet et des choix d'implémentation.*
+
 ---
 
-## 🎯 Objectifs
+## 🎯 Objectif professionnel
 
-- Développer des applications robustes et maintenables
-- Maîtriser les bonnes pratiques de développement
-- Intégrer une équipe en tant que stagiaire développeuse
+Je recherche actuellement un **stage** qui me permettra de :
+- Mettre en pratique mes compétences techniques
+- Découvrir le travail en équipe sur des projets concrets
+- Apprendre auprès de professionnels expérimentés
+
+Curieuse, rigoureuse et motivée, j'aborde chaque projet avec l'envie de bien faire et de progresser.
 
 ---
 
@@ -59,4 +64,4 @@
 **Email** : [farahbouh04@gmail.com](mailto:farahbouh04@gmail.com)  
 **LinkedIn** : [Farah Bouhnaida](https://www.linkedin.com/in/farah-bouhnaida/)
 
-📌 *Disponible pour opportunités de stage*
+📌 *À la recherche d'un stage – disponible pour échanger*
