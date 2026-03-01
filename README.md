@@ -1,47 +1,62 @@
 # Farah Bouhnaida
-
-Étudiante en informatique – Portfolio projets académique et personnels
-
----
-
-## 👩‍💻 À propos de moi
-
-Je suis étudiante en informatique, passionnée par la transformation de problémes en solution utile.  
-Ce GitHub rassemble mes projets académiques et personnels.
+**Développeuse informatique** – Portfolio de projets
 
 ---
 
-## 🛠 Compétences et technologies
+## 👩‍💻 Profil
 
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/farahbouh/C)  
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/farahbouh/Python)  
-[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/farahbouh/Html)  
-[![Scheme](https://img.shields.io/badge/Scheme-1e4b6b?style=for-the-badge)](https://github.com/farahbouh/Scheme)
-
-- Programmation orientée objet (C++)  
-- Structures de données et algorithmes  
-- Programmation fonctionnelle (Scheme)  
-- Développement web basique (HTML, CSS)  
+Étudiante en informatique, je conçois et développe des solutions logicielles en transformant des problèmes complexes en code fonctionnel et structuré.
 
 ---
 
-## 📂 Contenu du dépôt
+## 🛠 Stack technique
 
-- Projets personnels 
-- Projets universitaires
-- Exercices pratiques  
-  
+| Catégorie | Technologies |
+|-----------|-------------|
+| **Langages** | C++ · Python · HTML/CSS · JavaScript (base) · SQL |
+| **Concepts** | POO · Algorithmique · Structures de données · Web front-end |
+| **Outils** | Git · VS Code · Linux (bases) |
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
 ---
 
-## 🎯 Objectifs professionnels
+## 📌 Projets phares
 
-- Approfondir mes compétences en développement logiciel et algorithmique  
-- Appliquer les bonnes pratiques de structuration et de lisibilité du code  
-- Participer à des projets collaboratifs et professionnels lors d’un stage  
+> *Dépôts disponibles par langage et par niveau de difficulté*
+
+### 🔹 C++
+- Implémentations d'algorithmes classiques
+- Exercices de programmation orientée objet
+
+### 🔹 Python
+- Scripts et petits outils
+- Résolution de problèmes algorithmiques
+
+### 🔹 Web
+- Pages statiques en HTML/CSS
+- Intégration de maquettes simples
+
+### 🔹 Académique
+- Projets universitaires (C++, Python, Scheme)
+- Travaux pratiques commentés
 
 ---
 
-## ✉️ Contact
+## 🎯 Objectifs
 
-- Email : [farahbouh04@gmail.com](mailto:farahbouh04@gmail.com)  
-- LinkedIn : [Farah Bouhnaida](https://www.linkedin.com/in/farah-bouhnaida/)
+- Développer des applications robustes et maintenables
+- Maîtriser les bonnes pratiques de développement
+- Intégrer une équipe en tant que stagiaire développeuse
+
+---
+
+## 📫 Contact
+
+**Email** : [farahbouh04@gmail.com](mailto:farahbouh04@gmail.com)  
+**LinkedIn** : [Farah Bouhnaida](https://www.linkedin.com/in/farah-bouhnaida/)
+
+📌 *Disponible pour opportunités de stage*
