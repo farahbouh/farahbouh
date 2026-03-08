@@ -7,7 +7,7 @@
 
 Je suis étudiante en informatique, passionnée par la création de solutions logicielles utiles et bien conçues. J'aime comprendre le fonctionnement des choses et transformer des idées en code fonctionnel.
 
-Ce GitHub reflète mon parcours d'apprentissage et ma curiosité technique à travers différents projets.
+Ce GitHub contient quelque élèments de mon parcours d'apprentissage à travers différents projets.
 
 ---
 
