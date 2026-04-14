@@ -14,39 +14,38 @@ Ce GitHub contient quelques éléments de mon parcours d'apprentissage à traver
 ## 🛠 Compétences techniques
 
 **Langages principaux**  
-[![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://github.com/farahbouh/C)  [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/farahbouh/Python)  [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)](https://github.com/farahbouh/Java)
+[![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://github.com/farahbouh/C)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/farahbouh/Python)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/farahbouh/Java)
 
 <small>**Autres langages** : SQL, HTML/CSS, JavaScript (notions)</small>  
 **Concepts** : Programmation orientée objet, algorithmique, structures de données  
-**Outils** : Git, VS Code, intellij idea, Linux/Windows
+**Outils** : Git, VS Code, Linux/Windows
 
 ---
 
 ## 📌 Mes 3 projets phares
 
-1.  **[SiteJeu – Architecture MVC](https://github.com/farahbouh/Python/tree/main/SiteJeu)**  
-    Serveur HTTP local complet gérant les routes, templates Jinja et sessions utilisateur. Projet d'architecture web de haut niveau.  
-    `Python` `MVC` `PostgreSQL`
-
-2.  **[Shapez – Java](https://github.com/farahbouh/Java/tree/main/Shapez)**  
+1.  **[Shapez – Java](https://github.com/farahbouh/Java/tree/main/Shapez)**  
     Simulation d’usine de formes géométriques, gérant des entités complexes et une chaîne de production.  
     `Java` `POO` `MVC`
 
-3.  **[Ludo – C++](https://github.com/farahbouh/C/tree/main/Ludo)**  
+2.  **[Ludo – C++](https://github.com/farahbouh/C/tree/main/Ludo)**  
     Implémentation complète du jeu de société Ludo, avec une gestion rigoureuse des règles et des tours de jeu.  
     `C++` `Algorithmique` `Structures de Données`
+
+3.  **[SiteJeu – Architecture MVC](https://github.com/farahbouh/Python/tree/main/SiteJeu)**  
+    Jeu de placement de briques sur grille (scores, tours) + base PostgreSQL (modélisation EA → schéma relationnel → script SQL). Serveur HTTP Python avec routage, Jinja, sessions.  
+    `Python` `MVC` `PostgreSQL` `SQL`
 
 ---
 
 ## 🎯 Objectif professionnel
 
-Je recherche actuellement un **stage** qui me permettra de :
-- Contribuer à des projets réels et professionnels
-- Mettre en pratique mes compétences techniques
-- Découvrir le travail en équipe sur des projets concrets
-- Apprendre auprès de professionnels expérimentés
+Je prépare activement mon entrée en alternance **à partir de septembre 2027** (rythme type 2 semaines / 2 semaines).  
+Je suis disponible pour un **stage conventionné** de 2 à 4 mois (de mai à août 2026).
 
-Curieuse, rigoureuse et motivée, j'aborde chaque projet avec l'envie de bien faire et de progresser.
+Curieuse et motivée, j'aborde chaque projet avec l'envie de bien faire et de progresser.
 
 ---
 
