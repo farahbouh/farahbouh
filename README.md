@@ -5,52 +5,44 @@
 
 ## 👋 Bonjour, moi c'est Farah
 
-Je suis étudiante en informatique, passionnée par la création de solutions logicielles utiles et bien conçues. J'aime comprendre le fonctionnement des choses et transformer des idées en code fonctionnel.
+Je suis étudiante en informatique, passionnée par la création de solutions utiles et bien conçues. J'aime comprendre le fonctionnement des choses et transformer des idées en code fonctionnel.
 
-Ce GitHub contient quelque élèments de mon parcours d'apprentissage à travers différents projets.
+Ce GitHub contient quelques éléments de mon parcours d'apprentissage à travers différents projets.
 
 ---
 
 ## 🛠 Compétences techniques
 
-| | |
-|---|---|
-| **Langages** | C++, Python, HTML/CSS, JavaScript (notions), SQL |
-| **Concepts maîtrisés** | Programmation orientée objet, algorithmique, structures de données |
-| **Outils** | Git, VS Code, Linux (utilisation courante) |
-
+**Langages principaux**  
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 
+**Autres langages** : SQL, HTML/CSS, JavaScript (notions)  
+**Concepts** : Programmation orientée objet, algorithmique, structures de données  
+**Outils** : Git, VS Code, Linux/Windows
 ---
 
-## 📌 Projets
+## 📌 Mes 3 projets phares
 
-### C++
-- Implémentation d'algorithmes classiques
-- Exercices de programmation orientée objet
+1.  **[SiteJeu – Architecture MVC](https://github.com/farahbouh/Python/tree/main/SiteJeu)**  
+    Serveur HTTP local complet gérant les routes, templates Jinja et sessions utilisateur. Projet d'architecture web de haut niveau.  
+    `Python` `MVC` `PostgreSQL`
 
-### Python
-- Scripts et outils pratiques
-- Résolution de problèmes algorithmiques
+2.  **[Shapez – Java](https://github.com/farahbouh/Java/tree/main/Shapez)**  
+    Simulation d’usine de formes géométriques, gérant des entités complexes et une chaîne de production.  
+    `Java` `POO` `MVC`
 
-### Web
-- Développement de pages statiques
-- Intégration de maquettes
-
-### Académique
-- Projets universitaires (C++, Python, Scheme)
-- Travaux pratiques commentés
-
-*Chaque dépôt contient une description détaillée du projet et des choix d'implémentation.*
+3.  **[Ludo – C++](https://github.com/farahbouh/C/tree/main/Ludo)**  
+    Implémentation complète du jeu de société Ludo, avec une gestion rigoureuse des règles et des tours de jeu.  
+    `C++` `Algorithmique` `Structures de Données`
 
 ---
 
 ## 🎯 Objectif professionnel
 
 Je recherche actuellement un **stage** qui me permettra de :
+- Contribuer à des projets réels et professionnels
 - Mettre en pratique mes compétences techniques
 - Découvrir le travail en équipe sur des projets concrets
 - Apprendre auprès de professionnels expérimentés
