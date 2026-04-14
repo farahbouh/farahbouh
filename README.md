@@ -35,7 +35,7 @@ Ce GitHub contient quelques éléments de mon parcours d'apprentissage à traver
     `C++` `Algorithmique` `Structures de Données`
 
 3.  **[SiteJeu – Architecture MVC](https://github.com/farahbouh/Python/tree/main/SiteJeu)**  
-    Jeu de placement de briques sur grille (scores, tours) + base PostgreSQL (modélisation EA → schéma relationnel → script SQL). Serveur HTTP Python avec routage, Jinja, sessions.  
+    Jeu de placement de briques sur grille (scores, tours) + base PostgreSQL (modélisation EA, schéma relationnel, script SQL). 
     `Python` `MVC` `PostgreSQL` `SQL`
 
 ---
