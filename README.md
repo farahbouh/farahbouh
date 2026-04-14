@@ -54,4 +54,4 @@ Curieuse et motivée, j'aborde chaque projet avec l'envie de bien faire et de pr
 **Email** : [farahbouh04@gmail.com](mailto:farahbouh04@gmail.com)  
 **LinkedIn** : [Farah Bouhnaida](https://www.linkedin.com/in/farah-bouhnaida/)
 
-📌 *À la recherche d'un stage – disponible pour échanger*
+📌 *Disponible pour échanger :)*
