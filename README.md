@@ -14,13 +14,12 @@ Ce GitHub contient quelques éléments de mon parcours d'apprentissage à traver
 ## 🛠 Compétences techniques
 
 **Langages principaux**  
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+[![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://github.com/farahbouh/C)  [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/farahbouh/Python)  [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)](https://github.com/farahbouh/Java)
 
-**Autres langages** : SQL, HTML/CSS, JavaScript (notions)  
+<small>**Autres langages** : SQL, HTML/CSS, JavaScript (notions)</small>  
 **Concepts** : Programmation orientée objet, algorithmique, structures de données  
-**Outils** : Git, VS Code, Linux/Windows
+**Outils** : Git, VS Code, intellij idea, Linux/Windows
+
 ---
 
 ## 📌 Mes 3 projets phares
