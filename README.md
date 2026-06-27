@@ -7,20 +7,22 @@
 
 Je suis étudiante en L3 Informatique à l'Université Claude Bernard Lyon 1. J'aime comprendre le fonctionnement des choses et transformer des idées en code fonctionnel.
 
-Ce GitHub contient quelques éléments de mon parcours d'apprentissage à travers différents projets personnels ou professionels.
+Ce GitHub contient quelques éléments de mon parcours d'apprentissage à travers différents projets personnels ou professionnels.
 
 ---
 
 ## Compétences techniques
 
-**Langages principaux**  
+**Langages principaux**
+
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://github.com/farahbouh/C)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/farahbouh/Java)
 
-<small>**Autres** : SQL, HTML/CSS, JavaScript</small>
+**Autres** : SQL, HTML/CSS, JavaScript
 
-**Concepts** : Programmation orientée objet, algorithmique, REST API, accessibilité (RGAA)  
+**Concepts** : Programmation orientée objet, algorithmique, REST API, accessibilité (RGAA)
+
 **Outils** : Git, GitLab, VS Code, Linux, Supabase, Netlify, Render
 
 ---
@@ -31,7 +33,7 @@ Ce GitHub contient quelques éléments de mon parcours d'apprentissage à traver
 
 Site web full-stack développé en autonomie lors de mon stage à l'association Interactiv' Media (Lyon).
 
-- API REST Flask + authentification
+- API REST Flask + authentification JWT
 - Base de données PostgreSQL via Supabase
 - Déploiement Netlify (front) / Render (back) avec pipeline GitLab CI/CD
 - Tests automatisés avec pytest
@@ -44,16 +46,18 @@ Site web full-stack développé en autonomie lors de mon stage à l'association 
 ## Autres projets
 
 > *Repos en cours de mise à jour*
+
 ---
 
 ## Objectif professionnel
-Je prépare activement mon entrée en **alternance à partir de septembre 2027** (rythme type 2 semaines / 2 semaines), avec un focus backend.
-Ainsi qu'un stage de 3 mois à partir de mai 2027.
+
+Je recherche une **alternance** à partir de septembre 2027 (rythme 2 semaines / 2 semaines) ainsi qu'un **stage de 3 mois** à partir de mai 2027, avec un focus backend.
+
 ---
 
 ## Contact
 
-**Email** : [farah.bouhnaida@gmail.com](mailto:farah.bouhnaida@gmail.com)  
-**LinkedIn** : [Farah Bouhnaida](https://www.linkedin.com/in/farahbouh/)  
+**Email** : [farah.bouhnaida@gmail.com](mailto:farah.bouhnaida@gmail.com)
+**LinkedIn** : [Farah Bouhnaida](https://www.linkedin.com/in/farahbouh/)
 
 *Disponible pour échanger :)*
