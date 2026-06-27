@@ -47,7 +47,6 @@ Site web full-stack développé en autonomie lors de mon stage à l'association 
 ---
 
 ## Objectif professionnel
-
 Je prépare activement mon entrée en **alternance à partir de septembre 2027** (rythme type 2 semaines / 2 semaines), avec un focus **backend**.
 Ainsi qu'un stage de 3 mois à partir de mai 2027.
 ---
