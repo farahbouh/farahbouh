@@ -7,7 +7,7 @@
 
 Je suis étudiante en L3 Informatique à l'Université Claude Bernard Lyon 1. J'aime comprendre le fonctionnement des choses et transformer des idées en code fonctionnel.
 
-Ce GitHub contient quelques éléments de mon parcours d'apprentissage à travers différents projets personnels ou professionelle.
+Ce GitHub contient quelques éléments de mon parcours d'apprentissage à travers différents projets personnels ou professionels.
 
 ---
 
@@ -47,7 +47,7 @@ Site web full-stack développé en autonomie lors de mon stage à l'association 
 ---
 
 ## Objectif professionnel
-Je prépare activement mon entrée en **alternance à partir de septembre 2027** (rythme type 2 semaines / 2 semaines), avec un focus **backend**.
+Je prépare activement mon entrée en **alternance à partir de septembre 2027** (rythme type 2 semaines / 2 semaines), avec un focus backend.
 Ainsi qu'un stage de 3 mois à partir de mai 2027.
 ---
 
