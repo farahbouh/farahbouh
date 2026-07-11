@@ -11,7 +11,7 @@
 
 ---
 
-## 👋 Bonjour, je suis Farah
+## Bonjour, je suis Farah
 
 Étudiante en L3 Informatique à l'Université Claude Bernard Lyon 1. J'aime comprendre le fonctionnement des choses et transformer des idées en code fonctionnel.
 
@@ -19,7 +19,7 @@ Ce GitHub contient quelques éléments de mon parcours d'apprentissage à traver
 
 ---
 
-## 🛠️ Compétences techniques
+## Compétences techniques
 
 **Langages principaux**
 
@@ -42,21 +42,7 @@ Ce GitHub contient quelques éléments de mon parcours d'apprentissage à traver
 
 ---
 
-## 📊 Statistiques GitHub
-
-<div align="center">
-
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=farahbouh&show_icons=true&theme=tokyonight&title_color=0D7377&icon_color=0D7377&text_color=c9d1d9&bg_color=0d1117&hide_border=true)
-
-![Streak GitHub](https://github-readme-streak-stats.herokuapp.com/?user=farahbouh&theme=tokyonight&hide_border=true&background=0d1117&stroke=0D7377&ring=0D7377&fire=0D7377&currStreakLabel=0D7377)
-
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=farahbouh&layout=compact&theme=tokyonight&title_color=0D7377&text_color=c9d1d9&bg_color=0d1117&hide_border=true)
-
-</div>
-
----
-
-## 🐍 Calendrier de contributions
+## Calendrier de contributions
 
 <div align="center">
 
@@ -67,9 +53,9 @@ Ce GitHub contient quelques éléments de mon parcours d'apprentissage à traver
 
 ---
 
-## 🚀 Projet phare – Stage Interactiv' Media (2026)
+## Projet phare – Stage Interactiv' Media (2026)
 
-**[interactiv-media](https://github.com/farahbouh/interactiv-media)** · [🌐 Démo en ligne](https://interactiv-media.netlify.app)
+**[interactiv-media](https://github.com/farahbouh/interactiv-media)** · [Démo en ligne](https://interactiv-media.netlify.app)
 
 Site web full-stack développé en autonomie lors de mon stage à l'association Interactiv' Media (Lyon).
 
@@ -83,19 +69,19 @@ Site web full-stack développé en autonomie lors de mon stage à l'association 
 
 ---
 
-## 📁 Autres projets
+## Autres projets
 
 > *Repos en cours de mise à jour*
 
 ---
 
-## 🎯 Objectif professionnel
+## Objectif professionnel
 
 Je recherche une **alternance** à partir de septembre 2027 (rythme 2 semaines / 2 semaines) ainsi qu'un **stage de 3 mois** à partir de mai 2027, avec un focus backend.
 
 ---
 
-## 📬 Contact
+## Contact
 
 **Email** : [farah.bouhnaida@gmail.com](mailto:farah.bouhnaida@gmail.com)
 **LinkedIn** : [Farah Bouhnaida](https://www.linkedin.com/in/farahbouh/)
