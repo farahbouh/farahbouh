@@ -47,14 +47,11 @@ J'aime comprendre le fonctionnement des choses et transformer des idées en code
 | Attribut | Détail |
 |---|---|
 | **Stack** | Flask · Supabase (PostgreSQL) · Netlify · Render |
-| **Sécurité** | Authentification JWT |
-| **CI/CD** | Pipeline GitLab automatisé |
-| **Tests** | Suite pytest |
 | **Accessibilité** | Audits RGAA / WAVE / Lighthouse |
 | **Repository** | [github.com/farahbouh/interactiv-media](https://github.com/farahbouh/interactiv-media) |
 | **Démo** | [interactiv-media.netlify.app](https://interactiv-media.netlify.app) |
 
-**Ce que ça fait :** API REST Flask avec authentification JWT pour l'administration, quiz interactif avec système de classement, déploiement automatisé via pipeline GitLab CI/CD, et conformité accessibilité vérifiée par audits successifs.
+**Ce que ça fait :** API REST Flask avec authentification pour l'administration et conformité accessibilité vérifiée par audits successifs.
 
 ---
 
