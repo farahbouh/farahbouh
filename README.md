@@ -12,7 +12,7 @@
 
 ---
 
-## About
+## A propos de moi
 
 Étudiante en L3 Informatique à l'Université Claude Bernard Lyon 1, orientée développement back-end et architecture technique.
 
@@ -57,7 +57,41 @@ J'aime comprendre le fonctionnement des choses et transformer des idées en code
 
 ## Autres projets
 
-> *Repos en cours de mise à jour*
+### Projets personnels
+
+**portfolio — Site portfolio personnel**
+> Site vitrine construit from scratch pour présenter mes projets.
+
+| Attribut          | Détail                                                                   |
+| ----------------- | ------------------------------------------------------------------------- |
+| **Stack**         | Flask · JavaScript · CSS                                                   |
+| **Repository**    | [github.com/farahbouh/portfolio](https://github.com/farahbouh/portfolio) |
+
+**Ce que ça fait :** Chargement dynamique des projets en JSON, animations scroll-reveal et typewriter, filtre de compétences.
+
+---
+
+**Caprinoir — Jeu de pêche 2D**
+> Jeu inspiré d'Animal Crossing et Stardew Valley, développé en autonomie.
+
+| Attribut          | Détail                                                                     |
+| ----------------- | --------------------------------------------------------------------------- |
+| **Stack**         | Unity · C#                                                                   |
+| **Repository**    | [github.com/farahbouh/Caprinoir](https://github.com/farahbouh/Caprinoir)   |
+
+**Ce que ça fait :** Système de tri de sprites dynamique et mini-jeu de pêche.
+
+### Projets académiques
+
+**shapez.io — Réimplémentation MVC**
+> Projet académique de réimplémentation du jeu shapez.io.
+
+| Attribut          | Détail                                                               |
+| ----------------- | ----------------------------------------------------------------------- |
+| **Stack**         | Java                                                                     |
+| **Repository**    | [github.com/farahbouh/shapez.io](https://github.com/farahbouh/shapez.io) |
+
+**Ce que ça fait :** Architecture MVC appliquée à la logique du jeu original.
 
 ---
 
