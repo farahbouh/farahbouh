@@ -34,13 +34,13 @@ J'aime comprendre le fonctionnement des choses et transformer des idées en code
 
 **Cloud, DevOps & Outils**
 
-[![Skills](https://skillicons.dev/icons?i=git,gitlab,github,netlify,render,linux,vscode&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=git,gitlab,github,netlify,linux,vscode&theme=dark)](https://skillicons.dev)
 
 ---
 
 ## Projet phare
 
-**Interactiv' Media — Site web associatif full-stack**
+**Interactiv' Media - Site web associatif full-stack**
 
 > Site web développé en autonomie lors de mon stage à l'association Interactiv' Media (Lyon).
 
@@ -54,12 +54,9 @@ J'aime comprendre le fonctionnement des choses et transformer des idées en code
 **Ce que ça fait :** API REST Flask avec authentification pour l'administration et conformité accessibilité vérifiée par audits successifs.
 
 ---
-
-## Autres projets
-
 ### Projets personnels
 
-**portfolio — Site portfolio personnel**
+**portfolio - Site portfolio personnel**
 > Site vitrine construit from scratch pour présenter mes projets.
 
 | Attribut          | Détail                                                                   |
@@ -71,7 +68,9 @@ J'aime comprendre le fonctionnement des choses et transformer des idées en code
 
 ---
 
-**Caprinoir — Jeu de pêche 2D**
+### Projets académiques
+
+**Caprinoir - Jeu de pêche 2D**
 > Jeu inspiré d'Animal Crossing et Stardew Valley, développé en autonomie.
 
 | Attribut          | Détail                                                                     |
@@ -81,9 +80,9 @@ J'aime comprendre le fonctionnement des choses et transformer des idées en code
 
 **Ce que ça fait :** Système de tri de sprites dynamique et mini-jeu de pêche.
 
-### Projets académiques
 
-**shapez.io — Réimplémentation MVC**
+
+**shapez.io - Réimplémentation MVC**
 > Projet académique de réimplémentation du jeu shapez.io.
 
 | Attribut          | Détail                                                               |
