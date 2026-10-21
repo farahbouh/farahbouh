@@ -1,104 +1,119 @@
-![Wave Header](https://capsule-render.vercel.app/api?type=waving&color=0D7377&height=200&section=header&text=Farah%20Bouhnaida&fontSize=40&fontColor=ffffff&animation=fadeIn)
+<div align="center" style="max-width: 800px; margin: 0 auto; background-color: #14162B; border-radius: 16px; padding: 40px 30px;">
 
-<div align="center">
+  <h1 style="font-family: 'Inter', 'Segoe UI', 'Helvetica Neue', sans-serif; font-size: 44px; font-weight: 700; color: #FBF3EA; margin: 0 0 25px 0; letter-spacing: 1px;">
+    Farah Bouhnaida
+  </h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0D7377&center=true&vCenter=true&width=500&lines=D%C3%A9veloppeuse+full-stack;Orient%C3%A9e+back-end;%C3%89tudiante+en+L3+Informatique)
+  [![M'écrire](https://img.shields.io/badge/M'écrire-farah.bouhnaida%40gmail.com-F6C445?style=for-the-badge&logo=gmail&logoColor=14162B)](mailto:farah.bouhnaida@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/Discutons_sur_LinkedIn-2C3E50?style=for-the-badge&logo=linkedin&logoColor=FBF3EA)](https://www.linkedin.com/in/farahbouh/)
+  [![Portfolio](https://img.shields.io/badge/Voir_mon_portfolio-2C3E50?style=for-the-badge&logo=firefox&logoColor=FBF3EA)](https://farahbouh.netlify.app/)
 
-[![Email](https://img.shields.io/badge/Email-0D7377?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farah.bouhnaida@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D7377?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farahbouh/)
-[![GitHub](https://img.shields.io/badge/GitHub-0D7377?style=for-the-badge&logo=github&logoColor=white)](https://github.com/farahbouh)
+  <p style="margin: 15px 0 0 0;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&pause=1000&color=FBF3EA&center=true&vCenter=true&width=650&lines=Vous+avez+une+id%C3%A9e+floue+%3F+On+la+clarifie+ensemble.;Une+question+technique+%3F+Je+suis+l%C3%A0.;Un+projet+%3F+Parlons-en." />
+  </p>
 
 </div>
 
 ---
 
-## A propos de moi
+## ◆ À propos
 
-Étudiante en L3 Informatique à l'Université Claude Bernard Lyon 1, orientée développement back-end et architecture technique.
 
-J'aime comprendre le fonctionnement des choses et transformer des idées en code fonctionnel. Mon travail couvre le développement full-stack (Flask, API REST, authentification JWT), le déploiement d'applications (CI/CD, cloud), et l'accessibilité web (RGAA).
+Étudiante en L3 Informatique à l'Université Claude Bernard Lyon 1, orientée développement back-end. J'aime comprendre comment les choses fonctionnent et transformer une idée en code qui tourne : API REST, authentification, déploiement (CI/CD, cloud) et accessibilité web (RGAA).
 
-**Ouverte à :** Alternance (à partir de septembre 2027) · Stage de 3 mois (à partir de mai 2027) · Focus back-end
+![Recherche](https://img.shields.io/badge/●_RECHERCHE-000000?style=flat-square&labelColor=EF5A3C&color=FBF3EA)
+**Alternance** dès septembre 2027 · **Stage de 3 mois** dès mai 2027 · Focus back-end
 
 ---
 
-## Tech Stack
+## ◆ Tech Stack
 
 **Langages**
 
-[![Skills](https://skillicons.dev/icons?i=python,cpp,java,js,html,css&theme=dark)](https://skillicons.dev)
+[![Langages](https://skillicons.dev/icons?i=python,cpp,java,js,html,css&theme=dark)](https://skillicons.dev)
 
-**Backend & Bases de données**
+**Back-end & bases de données**
 
-[![Skills](https://skillicons.dev/icons?i=flask,postgres,sqlite&theme=dark)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=flask,postgres,sqlite&theme=dark)](https://skillicons.dev)
 
-**Cloud, DevOps & Outils**
+**Cloud, DevOps & outils**
 
-[![Skills](https://skillicons.dev/icons?i=git,gitlab,github,netlify,linux,vscode&theme=dark)](https://skillicons.dev)
-
----
-
-## Projet phare
-
-**Interactiv' Media - Site web associatif full-stack**
-
-> Site web développé en autonomie lors de mon stage à l'association Interactiv' Media (Lyon).
-
-| Attribut | Détail |
-|---|---|
-| **Stack** | Flask · Supabase (PostgreSQL) · Netlify · Render |
-| **Accessibilité** | Audits RGAA / WAVE / Lighthouse |
-| **Repository** | [github.com/farahbouh/interactiv-media](https://github.com/farahbouh/interactiv-media) |
-| **Démo** | [interactiv-media.netlify.app](https://interactiv-media.netlify.app) |
-
-**Ce que ça fait :** API REST Flask avec authentification pour l'administration et conformité accessibilité vérifiée par audits successifs.
-
----
-### Projets personnels
-
-**portfolio - Site portfolio personnel**
-> Site vitrine construit from scratch pour présenter mes projets.
-
-| Attribut          | Détail                                                                   |
-| ----------------- | ------------------------------------------------------------------------- |
-| **Stack**         | Flask · JavaScript · CSS                                                   |
-| **Repository**    | [github.com/farahbouh/portfolio](https://github.com/farahbouh/portfolio) |
-
-**Ce que ça fait :** Chargement dynamique des projets en JSON, animations scroll-reveal et typewriter, filtre de compétences.
+[![Outils](https://skillicons.dev/icons?i=git,gitlab,github,netlify,render,linux,vscode&theme=dark)](https://skillicons.dev)
 
 ---
 
-### Projets académiques
+## ◆ Projet phare
 
-**Caprinoir - Jeu de pêche 2D**
-> Jeu inspiré d'Animal Crossing et Stardew Valley, développé en autonomie.
+### Interactiv' Media · Site web associatif full-stack
 
-| Attribut          | Détail                                                                     |
-| ----------------- | --------------------------------------------------------------------------- |
-| **Stack**         | Unity · C#                                                                   |
-| **Repository**    | [github.com/farahbouh/Caprinoir](https://github.com/farahbouh/Caprinoir)   |
+![Stage](https://img.shields.io/badge/●_STAGE-000000?style=flat-square&labelColor=C9431F&color=FBF3EA)
+![Terminé](https://img.shields.io/badge/●_TERMINÉ-000000?style=flat-square&labelColor=F6C445&color=FBF3EA)
 
-**Ce que ça fait :** Système de tri de sprites dynamique et mini-jeu de pêche.
+> Site développé en autonomie lors de mon stage à l'association Interactiv' Media (Lyon).
 
+API REST Flask avec authentification pour l'administration, accessibilité vérifiée par audits successifs (RGAA, WAVE, Lighthouse).
 
-
-**shapez.io - Réimplémentation MVC**
-> Projet académique de réimplémentation du jeu shapez.io.
-
-| Attribut          | Détail                                                               |
-| ----------------- | ----------------------------------------------------------------------- |
-| **Stack**         | Java                                                                     |
-| **Repository**    | [github.com/farahbouh/shapez.io](https://github.com/farahbouh/shapez.io) |
-
-**Ce que ça fait :** Architecture MVC appliquée à la logique du jeu original.
+**Stack :** Flask · Supabase (PostgreSQL) · Netlify · Render
+[Code](https://github.com/farahbouh/interactiv-media) · [Démo](https://interactiv-media.netlify.app)
 
 ---
 
-## Contact
+## ◆ Autres projets
 
-[![Email](https://img.shields.io/badge/Email-0D7377?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farah.bouhnaida@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D7377?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farahbouh/)
+### Forge ton histoire · Outil d'aide à l'écriture
+
+![Personnel](https://img.shields.io/badge/●_PERSONNEL-000000?style=flat-square&labelColor=2C7768&color=FBF3EA)
+![En cours](https://img.shields.io/badge/●_EN_COURS-000000?style=flat-square&labelColor=EF5A3C&color=FBF3EA)
+
+> Structure un univers romanesque (personnages, lieux, événements, chronologie) et repère les incohérences.
+
+API REST en Java pur avec persistance JSON, 27 tests exécutés en CI. Interface Angular en cours.
+
+**Stack :** Java 21 · Gson · GitHub Actions · Angular
+[Code](https://github.com/farahbouh/Forgetonhistoire)
+
+### Portfolio · Site personnel
+
+![Personnel](https://img.shields.io/badge/●_PERSONNEL-000000?style=flat-square&labelColor=2C7768&color=FBF3EA)
+![Terminé](https://img.shields.io/badge/●_TERMINÉ-000000?style=flat-square&labelColor=F6C445&color=FBF3EA)
+
+> Site construit from scratch pour présenter mes projets.
+
+Chargement dynamique des projets en JSON, animations scroll-reveal et typewriter, filtre de compétences.
+
+**Stack :** Flask · JavaScript · CSS
+[Code](https://github.com/farahbouh/portfolio) · [Site](https://farahbouh.netlify.app/)
+
+### shapez.io · Réimplémentation MVC
+
+![Académique](https://img.shields.io/badge/●_ACADÉMIQUE-000000?style=flat-square&labelColor=8B8B9E&color=FBF3EA)
+![Terminé](https://img.shields.io/badge/●_TERMINÉ-000000?style=flat-square&labelColor=F6C445&color=FBF3EA)
+
+> Réimplémentation du jeu shapez.io : architecture MVC appliquée à la logique du jeu.
+
+**Stack :** Java
+[Code](https://github.com/farahbouh/shapez.io)
+
+### Caprinoir · Jeu de pêche 2D
+
+![Académique](https://img.shields.io/badge/●_ACADÉMIQUE-000000?style=flat-square&labelColor=8B8B9E&color=FBF3EA)
+
+> Jeu inspiré d'Animal Crossing et Stardew Valley : tri de sprites dynamique et mini-jeu de pêche.
+
+**Stack :** Unity · C#
+[Code](https://github.com/farahbouh/Caprinoir)
+
+---
+
+## ◆ Contact
+
+<div align="center">
 
 *Disponible pour échanger :)*
 
-![Wave Footer](https://capsule-render.vercel.app/api?type=waving&color=0D7377&height=100&section=footer)
+[![Email](https://img.shields.io/badge/Email-F6C445?style=for-the-badge&logo=gmail&logoColor=14162B)](mailto:farah.bouhnaida@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-F6C445?style=for-the-badge&logo=linkedin&logoColor=14162B)](https://www.linkedin.com/in/farahbouh/)
+
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=14162B&height=100&section=footer)
