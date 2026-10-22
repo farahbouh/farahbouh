@@ -18,8 +18,7 @@
 
 ## ◆ À propos
 
-
-Étudiante en L3 Informatique à l'Université Claude Bernard Lyon 1, orientée développement back-end. J'aime comprendre comment les choses fonctionnent et transformer une idée en code qui tourne : API REST, authentification, déploiement (CI/CD, cloud) et accessibilité web (RGAA).
+Étudiante en L3 Informatique à l'Université Claude Bernard Lyon 1, orientée développement back-end. J'aime comprendre comment les choses fonctionnent et transformer une idée en code qui tourne : API REST, serveurs réseau, authentification, déploiement (CI/CD, cloud) et accessibilité web (RGAA).
 
 ![Recherche](https://img.shields.io/badge/●_RECHERCHE-000000?style=flat-square&labelColor=EF5A3C&color=FBF3EA)
 **Alternance** dès septembre 2027 · **Stage de 3 mois** dès mai 2027 · Focus back-end
@@ -38,7 +37,7 @@
 
 **Cloud, DevOps & outils**
 
-[![Outils](https://skillicons.dev/icons?i=git,gitlab,github,netlify,render,linux,vscode&theme=dark)](https://skillicons.dev)
+[![Outils](https://skillicons.dev/icons?i=git,gitlab,github,docker,netlify,render,linux,vscode&theme=dark)](https://skillicons.dev)
 
 ---
 
@@ -51,9 +50,9 @@
 
 > Site développé en autonomie lors de mon stage à l'association Interactiv' Media (Lyon).
 
-API REST Flask avec authentification pour l'administration, accessibilité vérifiée par audits successifs (RGAA, WAVE, Lighthouse).
+API REST Flask avec authentification pour l'administration, tests automatisés, conteneurisation Docker et accessibilité vérifiée par audits successifs (RGAA, WAVE, Lighthouse).
 
-**Stack :** Flask · Supabase (PostgreSQL) · Netlify · Render
+**Stack :** Flask · Supabase (PostgreSQL) · Docker · Netlify · Render
 [Code](https://github.com/farahbouh/interactiv-media) · [Démo](https://interactiv-media.netlify.app)
 
 ---
@@ -72,6 +71,18 @@ API REST en Java pur avec persistance JSON, 27 tests exécutés en CI. Interface
 **Stack :** Java 21 · Gson · GitHub Actions · Angular
 [Code](https://github.com/farahbouh/Forgetonhistoire)
 
+### mini-redis · Serveur clé-valeur TCP
+
+![Personnel](https://img.shields.io/badge/●_PERSONNEL-000000?style=flat-square&labelColor=2C7768&color=FBF3EA)
+![Terminé](https://img.shields.io/badge/●_TERMINÉ-000000?style=flat-square&labelColor=F6C445&color=FBF3EA)
+
+> Réimplémentation d'un mini Redis pour comprendre les serveurs TCP multi-clients.
+
+Serveur multithread qui accepte plusieurs clients en parallèle (commandes SET, GET, DEL), stockage partagé protégé par mutex, 3 suites de tests unitaires.
+
+**Stack :** C++17 · Sockets POSIX · std::thread · Makefile
+[Code](https://github.com/farahbouh/mini-redis)
+
 ### Portfolio · Site personnel
 
 ![Personnel](https://img.shields.io/badge/●_PERSONNEL-000000?style=flat-square&labelColor=2C7768&color=FBF3EA)
@@ -84,23 +95,28 @@ Chargement dynamique des projets en JSON, animations scroll-reveal et typewriter
 **Stack :** Flask · JavaScript · CSS
 [Code](https://github.com/farahbouh/portfolio) · [Site](https://farahbouh.netlify.app/)
 
-### shapez.io · Réimplémentation MVC
+### ShapeCraft · Clone de shapez.io
 
 ![Académique](https://img.shields.io/badge/●_ACADÉMIQUE-000000?style=flat-square&labelColor=8B8B9E&color=FBF3EA)
 ![Terminé](https://img.shields.io/badge/●_TERMINÉ-000000?style=flat-square&labelColor=F6C445&color=FBF3EA)
 
-> Réimplémentation du jeu shapez.io : architecture MVC appliquée à la logique du jeu.
+> Projet universitaire en binôme : réimplémentation en Java du jeu de logistique shapez.io.
 
-**Stack :** Java
+Architecture Modèle / Vue-Contrôleur avec patron Observateur, une machine = un thread (schéma maître / esclave), interface Swing.
+
+**Stack :** Java · Swing · GitLab CI/CD
 [Code](https://github.com/farahbouh/shapez.io)
 
-### Caprinoir · Jeu de pêche 2D
+### Caprinoir · Jeu multijoueur de ferme et d'aventure
 
 ![Académique](https://img.shields.io/badge/●_ACADÉMIQUE-000000?style=flat-square&labelColor=8B8B9E&color=FBF3EA)
+![Terminé](https://img.shields.io/badge/●_TERMINÉ-000000?style=flat-square&labelColor=F6C445&color=FBF3EA)
 
-> Jeu inspiré d'Animal Crossing et Stardew Valley : tri de sprites dynamique et mini-jeu de pêche.
+> Jeu 2D inspiré d'Animal Crossing et Stardew Valley, réalisé en équipe de 4.
 
-**Stack :** Unity · C#
+J'ai développé le mini-jeu de pêche (barre de timing, poissons, score).
+
+**Stack :** Unity · C# · Netcode for GameObjects
 [Code](https://github.com/farahbouh/Caprinoir)
 
 ---
