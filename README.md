@@ -71,7 +71,7 @@ API REST en Java pur avec persistance JSON, 27 tests exécutés en CI. Interface
 **Stack :** Java 21 · Gson · GitHub Actions · Angular
 [Code](https://github.com/farahbouh/Forgetonhistoire)
 
-### mini-redis · Serveur clé-valeur TCP
+### Mini-redis · Serveur clé-valeur TCP
 
 ![Personnel](https://img.shields.io/badge/●_PERSONNEL-000000?style=flat-square&labelColor=2C7768&color=FBF3EA)
 ![Terminé](https://img.shields.io/badge/●_TERMINÉ-000000?style=flat-square&labelColor=F6C445&color=FBF3EA)
