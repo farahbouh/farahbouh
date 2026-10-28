@@ -29,7 +29,7 @@
 
 **Langages**
 
-[![Langages](https://skillicons.dev/icons?i=python,cpp,java,js,html,css&theme=dark)](https://skillicons.dev)
+[![Langages](https://skillicons.dev/icons?i=python,cpp,java,js,ts,html,css&theme=dark)](https://skillicons.dev)
 
 **Back-end & bases de données**
 
@@ -66,11 +66,10 @@ API REST Flask avec authentification pour l'administration, tests automatisés, 
 
 > Structure un univers romanesque (personnages, lieux, événements, chronologie) et repère les incohérences.
 
-API REST en Java pur avec persistance JSON, 27 tests exécutés en CI. Interface Angular en cours.
+API REST en Java pur avec persistance JSON, 27 tests exécutés en CI. Interface Angular avec composants standalone et signals : gestion des livres, univers et personnages, validation des dates, statut vivant/mort à une année donnée.
 
-**Stack :** Java 21 · Gson · GitHub Actions · Angular
-[Code](https://github.com/farahbouh/Forgetonhistoire)
-
+**Stack :** Java 21 · Gson · GitHub Actions · Angular · TypeScript
+[Code API](https://github.com/farahbouh/Forgetonhistoire) · [Code interface](https://github.com/farahbouh/Forgetonhistoire-Web)
 ### Mini-redis · Serveur clé-valeur TCP
 
 ![Personnel](https://img.shields.io/badge/●_PERSONNEL-000000?style=flat-square&labelColor=2C7768&color=FBF3EA)
