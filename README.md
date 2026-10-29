@@ -56,7 +56,6 @@ API REST Flask avec authentification pour l'administration, tests automatisés, 
 [Code](https://github.com/farahbouh/interactiv-media) · [Démo](https://interactiv-media.netlify.app)
 
 ---
-
 ## ◆ Autres projets
 
 ### Forge ton histoire · Outil d'aide à l'écriture
@@ -66,10 +65,11 @@ API REST Flask avec authentification pour l'administration, tests automatisés, 
 
 > Structure un univers romanesque (personnages, lieux, événements, chronologie) et repère les incohérences.
 
-API REST en Java pur avec persistance JSON, 27 tests exécutés en CI. Interface Angular avec composants standalone et signals : gestion des livres, univers et personnages, validation des dates, statut vivant/mort à une année donnée.
+API REST en Java pur avec persistance JSON, 27 tests exécutés en CI. Interface Angular en développement (livres, univers, personnages, validation des dates, statut vivant/mort à une année donnée).
 
 **Stack :** Java 21 · Gson · GitHub Actions · Angular · TypeScript
 [Code API](https://github.com/farahbouh/Forgetonhistoire) · [Code interface](https://github.com/farahbouh/Forgetonhistoire-Web)
+
 ### Mini-redis · Serveur clé-valeur TCP
 
 ![Personnel](https://img.shields.io/badge/●_PERSONNEL-000000?style=flat-square&labelColor=2C7768&color=FBF3EA)
@@ -82,41 +82,11 @@ Serveur multithread qui accepte plusieurs clients en parallèle (commandes SET, 
 **Stack :** C++17 · Sockets POSIX · std::thread · Makefile
 [Code](https://github.com/farahbouh/mini-redis)
 
-### Portfolio · Site personnel
+### Aussi
 
-![Personnel](https://img.shields.io/badge/●_PERSONNEL-000000?style=flat-square&labelColor=2C7768&color=FBF3EA)
-![Terminé](https://img.shields.io/badge/●_TERMINÉ-000000?style=flat-square&labelColor=F6C445&color=FBF3EA)
-
-> Site construit from scratch pour présenter mes projets.
-
-Chargement dynamique des projets en JSON, animations scroll-reveal et typewriter, filtre de compétences.
-
-**Stack :** Flask · JavaScript · CSS
-[Code](https://github.com/farahbouh/portfolio) · [Site](https://farahbouh.netlify.app/)
-
-### ShapeCraft · Clone de shapez.io
-
-![Académique](https://img.shields.io/badge/●_ACADÉMIQUE-000000?style=flat-square&labelColor=8B8B9E&color=FBF3EA)
-![Terminé](https://img.shields.io/badge/●_TERMINÉ-000000?style=flat-square&labelColor=F6C445&color=FBF3EA)
-
-> Projet universitaire en binôme : réimplémentation en Java du jeu de logistique shapez.io.
-
-Architecture Modèle / Vue-Contrôleur avec patron Observateur, une machine = un thread (schéma maître / esclave), interface Swing.
-
-**Stack :** Java · Swing · GitLab CI/CD
-[Code](https://github.com/farahbouh/shapez.io)
-
-### Caprinoir · Jeu multijoueur de ferme et d'aventure
-
-![Académique](https://img.shields.io/badge/●_ACADÉMIQUE-000000?style=flat-square&labelColor=8B8B9E&color=FBF3EA)
-![Terminé](https://img.shields.io/badge/●_TERMINÉ-000000?style=flat-square&labelColor=F6C445&color=FBF3EA)
-
-> Jeu 2D inspiré d'Animal Crossing et Stardew Valley, réalisé en équipe de 4.
-
-J'ai développé le mini-jeu de pêche (barre de timing, poissons, score).
-
-**Stack :** Unity · C# · Netcode for GameObjects
-[Code](https://github.com/farahbouh/Caprinoir)
+- [Portfolio](https://github.com/farahbouh/portfolio) · site personnel (Flask, JavaScript) · [voir le site](https://farahbouh.netlify.app/)
+- [ShapeCraft](https://github.com/farahbouh/shapez.io) · clone de shapez.io en Java, MVC et multithread (projet universitaire en binôme)
+- [Caprinoir](https://github.com/farahbouh/Caprinoir) · jeu 2D multijoueur sous Unity/C#, équipe de 4 (mini-jeu de pêche)
 
 ---
 
