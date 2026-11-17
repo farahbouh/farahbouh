@@ -21,7 +21,7 @@
 Étudiante en L3 Informatique à l'Université Claude Bernard Lyon 1, orientée développement back-end. J'aime comprendre comment les choses fonctionnent et transformer une idée en code qui tourne : API REST, serveurs réseau, authentification, déploiement (CI/CD, cloud) et accessibilité web (RGAA).
 
 ![Recherche](https://img.shields.io/badge/●_RECHERCHE-000000?style=flat-square&labelColor=EF5A3C&color=FBF3EA)
-**Alternance** dès septembre 2027 · **Stage de 3 mois** dès mai 2027 · Focus back-end
+**Alternance** dès septembre 2027 · **Stage de 3 à 4 mois** dès mai 2027 · Focus back-end
 
 ---
 
